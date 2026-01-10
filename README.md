@@ -37,8 +37,7 @@ Scripts are organized sequentially to reflect the EDA journey:
 
 ## Credits
 This project builds on the tutorial "[SQL Exploratory Data Analysis (EDA) Project | Full Hands-On Portfolio Project](https://youtu.be/6cJ5Ji8zSDg?si=HyR-y0tn7A14HM8u)" by Baraa Khatib Salkini.  
-The dataset and initial structure come from the tutorial, but I extended the work with custom SQL queries, documentation, and analysis.
-
+The dataset and initial structure were introduced in the tutorial, but in my previous project **sql_data_warehouse_project**, I performed the data cleaning myself. Here, I build on that cleaned dataset and extend the work with **custom SQL queries, documentation, and analysis** to highlight my own approach and insights.
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
