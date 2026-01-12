@@ -31,23 +31,19 @@ However, I extended the project with **additional queries, custom analyses, and 
 This SQL analysis explores the dataset from multiple analytical angles to provide a complete understanding of business performance. The key questions addressed include:
 
 🗂️ **Database Exploration**
-
   ● What tables and columns exist in the database?
-    ● How is the data structured across fact and dimension tables?
+  ● How is the data structured across fact and dimension tables?
 
 🌍 **Customers & Products**
-
   ● Which countries do customers come from?
   ● What product categories, subcategories, and products are available?
 
 📅 **Time Coverage**
-
   ● What is the time range of the sales data?
   ● How many years of sales history are available?
   ● What is the age range of customers?
 
 📈 **Sales Performance Overview**
-
   ● What is the total revenue generated?
   ● How many items have been sold?
   ● What is the average selling price?
@@ -55,38 +51,33 @@ This SQL analysis explores the dataset from multiple analytical angles to provid
   ● How many customers have placed at least one order?
 
 📊 **Magnitude Analysis**
-
---● How many customers are there per country and per gender?
---● How many products exist in each category?
---● What is the average product cost per category?
---● How much revenue does each category generate?
---● How are sales quantities distributed across countries?
---● Which customers generate the most revenue?
+  ● How many customers are there per country and per gender?
+  ● How many products exist in each category?
+  ● What is the average product cost per category?
+  ● How much revenue does each category generate?
+  ● How are sales quantities distributed across countries?
+  ● Which customers generate the most revenue?
 
 🏆 **Ranking Analysis**
-
---● Which products and subcategories generate the highest revenue?
---● Which products perform the worst in terms of sales?
---● Who are the top revenue-generating customers?
---● Which customers placed the fewest orders?
+  ● Which products and subcategories generate the highest revenue?
+  ● Which products perform the worst in terms of sales?
+  ● Who are the top revenue-generating customers?
+  ● Which customers placed the fewest orders?
 
 ⏳ **Trend & Change Over Time**
-
---● How do orders evolve year over year?
---● How does revenue change over time by product category?
---● What percentage of total yearly revenue does each category contribute?
---● How does monthly sales performance evolve in terms of revenue, customers, and quantities sold?
+  ● How do orders evolve year over year?
+  ● How does revenue change over time by product category?
+  ● What percentage of total yearly revenue does each category contribute?
+  ● How does monthly sales performance evolve in terms of revenue, customers, and quantities sold?
 
 🧠 **Customer Behavior Analysis**
-
---● How recent are customers’ last purchases?
---● How frequently do customers place orders?
---● How much do customers spend overall (RFM analysis)?
---● How does average spending vary by gender and age group?
+  ● How recent are customers’ last purchases?
+  ● How frequently do customers place orders?
+  ● How much do customers spend overall (RFM analysis)?
+  ● How does average spending vary by gender and age group?
 
 🚚 **Delivery Performance**
-
---● What is the average shipping delay?
+  ● What is the average shipping delay?
   ● What percentage of orders are delivered on time?
   ● How does shipping performance vary by country and product line?
 
