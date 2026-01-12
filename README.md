@@ -17,15 +17,6 @@ However, I extended the project with **additional queries, custom analyses, and 
 
 ---
 
-## Objectives
-- Understand the structure and quality of the database  
-- Explore categorical and temporal dimensions  
-- Analyze numeric measures   
-- Answer key business questions about customers, products, and performance  
-- Provide recruiter‑friendly documentation of SQL analysis skills  
-
----
-
 ## 📊 Key Questions Answered by This Analysis
 
 This SQL analysis explores the dataset from multiple analytical angles to provide a complete understanding of business performance. The key questions addressed include:
