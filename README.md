@@ -26,33 +26,33 @@ However, I extended the project with **additional queries, custom analyses, and 
 
 ---
 
-📊 ##Key Questions Answered by This Analysis
+##📊 Key Questions Answered by This Analysis
 
 This SQL analysis explores the dataset from multiple analytical angles to provide a complete understanding of business performance. The key questions addressed include:
 
 🗂️ **Database Exploration**
 
---● What tables and columns exist in the database?
---● How is the data structured across fact and dimension tables?
+  ● What tables and columns exist in the database?
+    ● How is the data structured across fact and dimension tables?
 
 🌍 **Customers & Products**
 
---● Which countries do customers come from?
---● What product categories, subcategories, and products are available?
+  ● Which countries do customers come from?
+  ● What product categories, subcategories, and products are available?
 
 📅 **Time Coverage**
 
---● What is the time range of the sales data?
---● How many years of sales history are available?
---● What is the age range of customers?
+  ● What is the time range of the sales data?
+  ● How many years of sales history are available?
+  ● What is the age range of customers?
 
 📈 **Sales Performance Overview**
 
---● What is the total revenue generated?
---● How many items have been sold?
---● What is the average selling price?
---● How many orders, customers, and products are in the database?
---● How many customers have placed at least one order?
+  ● What is the total revenue generated?
+  ● How many items have been sold?
+  ● What is the average selling price?
+  ● How many orders, customers, and products are in the database?
+  ● How many customers have placed at least one order?
 
 📊 **Magnitude Analysis**
 
@@ -87,8 +87,8 @@ This SQL analysis explores the dataset from multiple analytical angles to provid
 🚚 **Delivery Performance**
 
 --● What is the average shipping delay?
---● What percentage of orders are delivered on time?
---● How does shipping performance vary by country and product line?
+  ● What percentage of orders are delivered on time?
+  ● How does shipping performance vary by country and product line?
 
 ## Credits
 This project builds on the tutorial "[SQL Exploratory Data Analysis (EDA) Project | Full Hands-On Portfolio Project](https://youtu.be/6cJ5Ji8zSDg?si=HyR-y0tn7A14HM8u)" by Baraa Khatib Salkini.  
